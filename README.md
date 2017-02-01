@@ -1,4 +1,4 @@
-# Go Ubiquitous
+#<img width="10%" src="https://github.com/MuditSri-2908/Go-Ubiquitous/blob/master/Advanced_Android_Development-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/>Go Ubiquitous
 A wearable watch face for sunshine app to run on Android Wear Devices
 
 Works on both Round and Square face watches
