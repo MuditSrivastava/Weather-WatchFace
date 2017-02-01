@@ -27,8 +27,10 @@ __NOTE:__ Add your API key to ``` Buil.gradle ``` file as specified below in ord
 
 ## Screenshots
 
-<img width="30%" src="https://github.com/MuditSri-2908/Go-Ubiquitous/blob/master/Screenshots/device-2016-09-06-013714.png"/>
+<img width="40%" src="https://github.com/MuditSri-2908/Go-Ubiquitous/blob/master/Screenshots/device-2016-09-06-013714.png"/>
 <img width="30%" src="https://github.com/MuditSri-2908/Go-Ubiquitous/blob/master/Screenshots/device-2016-09-06-012957.png"/>
+
+<img width="30%" src="https://github.com/MuditSri-2908/Go-Ubiquitous/blob/master/Screenshots/device-2016-09-06-012811.png"/>
 
 
 ## General Project Guideline
